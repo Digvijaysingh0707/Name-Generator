@@ -18,3 +18,7 @@
 .search-input::placeholder {
     color: #e7e9f0;
 }
+
+.search-input:focus {
+    outline: none;
+}
